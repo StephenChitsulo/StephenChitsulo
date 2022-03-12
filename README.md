@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StephenChitsulo
-- 👀 I’m interested in nastering code
+- 👀 I’m interested in mastering code
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on building projects that will boost my portfolio
 - 📫 How to reach me: whatsapp number is +265999180990 and my email address is stephenchitsulo@gmail.com
